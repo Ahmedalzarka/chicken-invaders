@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/ss">
+        <file>imgs/chicken.png</file>
+        <file>imgs/otherChicken.png</file>
+        <file>imgs/red_laser.png</file>
+        <file>imgs/ship.png</file>
+        <file>imgs/chick.png</file>
+        <file>imgs/space.jpg</file>
+    </qresource>
+</RCC>

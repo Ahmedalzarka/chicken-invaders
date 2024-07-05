@@ -1,0 +1,12 @@
+debug/bullet.o
+debug/chicken.o
+debug/main.o
+debug/ship.o
+debug/spawn.o
+debug/stats.o
+debug/qrc_img.o
+debug/qrc_sounds.o
+debug/moc_bullet.o
+debug/moc_chicken.o
+debug/moc_ship.o
+debug/moc_spawn.o

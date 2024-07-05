@@ -1,0 +1,12 @@
+release/bullet.o
+release/chicken.o
+release/main.o
+release/ship.o
+release/spawn.o
+release/stats.o
+release/qrc_img.o
+release/qrc_sounds.o
+release/moc_bullet.o
+release/moc_chicken.o
+release/moc_ship.o
+release/moc_spawn.o
